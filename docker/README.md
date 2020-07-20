@@ -10,7 +10,7 @@ $ vim .env
 .env
 
 ```
-DATABASE=vote
+DATABASE=test
 CAKE_DATABASE=adachin
 USER_NAME=php_user
 USER_PASSWORD=php_pw
