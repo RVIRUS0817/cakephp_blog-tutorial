@@ -3,7 +3,7 @@
 ![1](https://user-images.githubusercontent.com/5633085/87953592-334a0800-cae6-11ea-99d6-d3a099b8fa58.png)
 
 - CakePHP 4.0.6
-- php 7.4
+- php 7.4.6
 
 ## Documents
 
