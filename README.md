@@ -12,7 +12,7 @@ https://github.com/RVIRUS0817/cakephp_blog-tutorial/tree/master/docker
 ## Documents
 
 - https://book.cakephp.org/4/ja/installation.html
-- https://book.cakephp.org/4/ja/tutorials-and-examples/blog/blog.html
+- https://book.cakephp.org/4/ja/tutorials-and-examples.html
 
 ## Link
 
