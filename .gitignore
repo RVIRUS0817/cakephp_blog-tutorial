@@ -1,0 +1,4 @@
+docker/db/data
+docker/.env
+.vscode
+
